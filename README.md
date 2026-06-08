@@ -79,8 +79,6 @@ I focus on clean architecture, maintainable code, and delivery that holds up in 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ahmed-Aladdin-Khidr&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Ahmed-Aladdin-Khidr)
 
-[![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Aladdin-Khidr&show_icons=true&hide_border=true&count_private=true&theme=default&hide=contribs)](https://github.com/Ahmed-Aladdin-Khidr)
-
 </div>
 
 ---
